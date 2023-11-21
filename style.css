@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  color: aliceblue;
+}
+
+main {
+  margin: 3em;
+}
+footer {
+  background-color: antiquewhite;
+  color: black;
+}
+table {
+  border: 1px solid white;
+  border-collapse: collapse;
+  margin: 2em;
+}
+td,
+th {
+  border: 1px solid white;
+  padding: 5px;
+}
+footer {
+  margin-top: 3em;
+}
